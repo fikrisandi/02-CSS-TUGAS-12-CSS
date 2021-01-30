@@ -1,0 +1,46 @@
+header{
+  background: #273746;
+  font-size: 18px;
+  padding-top: 10px;
+  height: 35px;
+}
+
+main{
+  background-image:linear-gradient(to top right, skyblue, Azure, skyblue);
+  padding-right: 15px;
+}
+
+.footer{
+  background: black;
+  color: white;
+  text-align: center;
+}
+
+.image{
+  float: left;
+  height: 240px;
+  width: 210px;
+  padding-left: 10px;
+}
+
+.p-text{
+  column-count:4;
+  column-fill: balance;
+  column-gap: normal;
+  column-rule: 2px double black;
+  text-align: justify;
+  padding: 0px 0px 20px 10px;
+  margin: 0px;
+}
+
+a{
+  padding: 12px;
+
+  color: white;
+}
+
+.hamburger{
+  padding: 10px;
+  height: 500px;
+  width: 1480px;
+}
